@@ -1,0 +1,49 @@
+* {
+	animation-delay: initial !important;
+	animation-direction: initial !important;
+	animation-duration: initial !important;
+	animation-fill-mode: initial !important;
+	animation-iteration-count: initial !important;
+	animation-name: initial !important;
+	animation-play-state: initial !important;
+	animation-timing-function: initial !important;
+	animation: initial !important;
+
+	-moz-animation-delay: initial !important;
+	-moz-animation-delay: initial !important;
+	-moz-animation-direction: initial !important;
+	-moz-animation-fill-mode: initial !important;
+	-moz-animation-iteration-count: initial !important;
+	-moz-animation-name: initial !important;
+	-moz-animation-play-state: initial !important;
+	-moz-animation-timing-function: initial !important;
+	-moz-animation: initial !important;
+
+	-webkit-animation-delay: initial !important;
+	-webkit-animation-delay: initial !important;
+	-webkit-animation-direction: initial !important;
+	-webkit-animation-fill-mode: initial !important;
+	-webkit-animation-iteration-count: initial !important;
+	-webkit-animation-name: initial !important;
+	-webkit-animation-play-state: initial !important;
+	-webkit-animation-timing-function: initial !important;
+	-webkit-animation: initial !important;
+
+	transition-delay: initial !important;
+	transition-duration: initial !important;
+	transition-property: initial !important;
+	transition-timing-function: initial !important;
+	transition: initial !important;
+
+	-moz-transition-delay: initial !important;
+	-moz-transition-duration: initial !important;
+	-moz-transition-property: initial !important;
+	-moz-transition-timing-function: initial !important;
+	-moz-transition: initial !important;
+
+	-webkit-transition-delay: initial !important;
+	-webkit-transition-duration: initial !important;
+	-webkit-transition-property: initial !important;
+	-webkit-transition-timing-function: initial !important;
+	-webkit-transition: initial !important;
+}
